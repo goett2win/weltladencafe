@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://goett2win.github.io/weltladencafe/"
+languageCode = "de-De"
+title = "Weltladencafe Göttingen"
 theme = "basics"
+publishDir = "docs"

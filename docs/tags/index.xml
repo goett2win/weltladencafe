@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Weltladencafe Göttingen</title>
+    <link>https://goett2win.github.io/weltladencafe/tags/</link>
+    <description>Recent content in Tags on Weltladencafe Göttingen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    
+	<atom:link href="https://goett2win.github.io/weltladencafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
